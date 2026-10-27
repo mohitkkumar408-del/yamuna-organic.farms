@@ -1,0 +1,6 @@
+{
+  "name": "Mushroom Farm Manager",
+  "description": "Comprehensive farm management system for mushroom growers in India: production batches, inventory, sales, orders, expenses, profit & loss, and reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
